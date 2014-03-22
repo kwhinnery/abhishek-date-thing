@@ -1,0 +1,32 @@
+{
+  "name": "abhishek-date-thing",
+  "version": "0.0.0",
+  "description": "Convert dates to the Indian date thing Abhishek is describing on Facebook",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kwhinnery/abhishek-date-thing"
+  },
+  "keywords": [
+    "abhishek",
+    "dates",
+    "conversion"
+  ],
+  "author": "Kevin Whinnery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwhinnery/abhishek-date-thing/issues"
+  },
+  "dependencies": {
+    "moment": "~2.5.1",
+    "request": "~2.34.0",
+    "ejs": "~0.8.6",
+    "express": "~3.5.0",
+    "gopher": "0.0.7",
+    "jquery": "~2.1.0",
+    "cheerio": "~0.13.1"
+  }
+}
